@@ -1,4 +1,5 @@
 # :wave: The Basics of GitHub 
+Hrishi Jadhav
 
 ## 🤓 Course overview and learning outcomes 
 
